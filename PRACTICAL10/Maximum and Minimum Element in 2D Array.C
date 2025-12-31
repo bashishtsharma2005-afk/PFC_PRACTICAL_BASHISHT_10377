@@ -30,3 +30,11 @@ int main() {
 
     return 0;
 }
+// output
+// Enter rows and columns: 3 4
+// Enter elements:
+// 1 2 3 4
+// 1 2 8 7
+// 2 9 6 4
+// Maximum element = 9
+// Minimum element = 1
