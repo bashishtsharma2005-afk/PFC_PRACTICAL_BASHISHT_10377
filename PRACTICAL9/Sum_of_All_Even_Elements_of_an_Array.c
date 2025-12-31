@@ -20,3 +20,10 @@ int main() {
 
     return 0;
 }
+// output
+// Enter number of elements: 9
+// Enter array elements:
+// 1 3 5
+// 3 6 7 
+// 0 7 2
+// Sum of even elements = 8
